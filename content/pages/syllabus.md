@@ -50,12 +50,54 @@ Course Assignments
 
 In a nutshell:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Lean/Six Sigma Implementation Experience Self-Assessment | 10% |
-| Single-Point Lesson - Development and Delivery | 30% |
-| Analysis of Socio-Technical Implementation Initiative | 30% |
-| Class Participation | 30% 
+{{< tableopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lean/Six Sigma Implementation Experience Self-Assessment
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Single-Point Lesson - Development and Delivery
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Analysis of Socio-Technical Implementation Initiative
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Additional details on course assignments can be found in the [assignments]({{< baseurl >}}/pages/assignments) section.
 
