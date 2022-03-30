@@ -10,6 +10,7 @@ description: 'This file includes the following topics:
   profile across UK auto supply chain,  and remember Dr. Deming?s lesson.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-60-lean-six-sigma-processes-summer-2004/15ca6cf7c38dc67b924979d69ea35be4_12_1lean_enter.pdf
 file_type: application/pdf
+parent_uid: 3f7b5a49-6215-45bb-6b4a-77385f498c34
 resourcetype: Document
 title: 12_1lean_enter.pdf
 uid: 15ca6cf7-c38d-c67b-9249-79d69ea35be4

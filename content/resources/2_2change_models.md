@@ -5,6 +5,7 @@ description: 'Lecture slides in five parts containing: an introduction and descr
   metrics and concluding comments.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-60-lean-six-sigma-processes-summer-2004/c8163ef6346fe5e39bea34f6830acc33_2_2change_models.pdf
 file_type: application/pdf
+parent_uid: 3f7b5a49-6215-45bb-6b4a-77385f498c34
 resourcetype: Document
 title: 2_2change_models.pdf
 uid: c8163ef6-346f-e5e3-9bea-34f6830acc33

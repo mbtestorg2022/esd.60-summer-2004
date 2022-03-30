@@ -7,6 +7,7 @@ description: 'The learning objectives of this file include:
   all three dimensions, and identify implications for other types of work/organization.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-60-lean-six-sigma-processes-summer-2004/a53a147bd6c3a3929bef8c08778343cf_2_3sociotech.pdf
 file_type: application/pdf
+parent_uid: 3f7b5a49-6215-45bb-6b4a-77385f498c34
 resourcetype: Document
 title: 2_3sociotech.pdf
 uid: a53a147b-d6c3-a392-9bef-8c08778343cf
